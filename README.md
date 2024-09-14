@@ -17,5 +17,5 @@ To get started with the code in this repository:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/clouddeploy.git
+   git clone https://github.com/navinreddy20/clouddeploy.git
 
